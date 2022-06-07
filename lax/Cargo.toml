@@ -35,7 +35,7 @@ num-traits = "0.2.14"
 lapack = "0.18.0"
 
 [dependencies.mkl-src]
-git = "https://github.com/njaard/mkl-src"
+version = "0.6.0"
 default-features = false
 optional = true
 
